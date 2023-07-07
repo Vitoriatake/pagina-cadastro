@@ -1,2 +1,2 @@
 # pagina-cadastro
-Crie uma pagina de cadastro no formato responsivo =. 
+Crie uma pagina de cadastro no formato responsivo. 
